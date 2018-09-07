@@ -1,0 +1,173 @@
+html {
+    background-color: #111;
+    color: white;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+li a {
+    display: block;
+    width: 60px;
+}
+
+nav li {
+    float: left;
+    text-align: center;
+}
+
+/* Naviagation links at the top of the page */
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 615px;
+    text-align: center;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+li.a {
+    list-style-type: none;
+    text-align: center;
+    padding: 20;
+    font-weight: bold;
+    color: white;
+    display: inline;
+}
+
+ul#a {
+    text-align: center;
+}
+
+/* Heading under the logo image */
+h1#welcome {
+    margin: 0;
+    padding: 15;
+    overflow: hidden;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    padding: 15;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+/* Paragragh under the three main points on index page */
+p#a {
+    margin: 30;
+    padding-left: 300;
+    padding-right: 300;
+    word-spacing: 4;
+    letter-spacing: .4;
+    font-size: 17;
+}
+
+/* Footer at the bottom of the page */
+strong footer {
+    text-align: center;
+    background-color: #333;
+    padding: 15px;
+    margin: 0;
+}
+
+a:hover {
+    background-color: #111;
+}
+
+h1 {
+    padding: 15px;
+    background-color: #333;
+}
+
+/* Main paragragh in the article */
+p#b {
+    margin: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+    word-spacing: 4px;
+    letter-spacing: .4px;
+    font-size: 17px;
+}
+
+header img {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+img#a {
+    padding-bottom: 170px;
+}
+
+blockquote {
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+/* Horizontal rule after each review */
+hr {
+    color: #111;
+    background-color: #333;
+    padding: 3px;
+}
+
+/* Reviews of Towers and Temples list */
+dl {
+    border: 3px double #333;
+    padding: 0.5em;
+}
+
+dt {
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding-left: 600px;
+}
+
+dd {
+    padding: 0 0 10px 0;
+    text-align: center;
+    font-weight: bold;
+    padding-right: 500px;
+}
+
+/* List in blockquote on alliance page */
+ul.quote {
+    text-align: left;
+    padding-left: 250px;
+    text-decoration: underline;
+}
+
+li.quote {
+    text-align: left;
+    list-style-type: square;
+    padding-left: 310px;
+}
